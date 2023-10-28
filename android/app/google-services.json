@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378996940462",
+    "project_id": "nlp-project-8d2f2",
+    "storage_bucket": "nlp-project-8d2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378996940462:android:dc5761c734e07e74d6d73f",
+        "android_client_info": {
+          "package_name": "com.nlp_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378996940462-aha2m25gqt8r101uss4gaum0o9ap2ssk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nlp_project",
+            "certificate_hash": "5bede27d83b5972512d31fea89133f716a46d516"
+          }
+        },
+        {
+          "client_id": "378996940462-ptpibijqfus390r36v3bl87pmhluhfh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBudk7baupqxL-c-Wfa4kfNwXkbTfa5XHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378996940462-ptpibijqfus390r36v3bl87pmhluhfh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
